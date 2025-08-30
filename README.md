@@ -1,2 +1,2 @@
 # Data-Camp-
-Projects/Code Alongs
+Project prompts from DataCamp and my solutions to them.
